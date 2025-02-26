@@ -1,0 +1,41 @@
+.logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.nav-link:hover {
+  background-color: black;
+  color: white;
+  font-weight: bolder;
+}
+.round {
+  border-radius: 20px;
+}
+.shadow {
+  box-shadow: 4px 4px 8px black;
+}
+.banner-container {
+  background-image: url("./images/BG.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  box-shadow: 4px 4px 8px black;
+}
+.banner-img {
+  width: 400px;
+  height: 400px;
+}
+.fontSize {
+  font-size: 50px;
+  font-weight: bolder;
+}
+.fontSizeSmall {
+  font-size: xx-large;
+}
+.purple-color {
+  color: rgb(64, 11, 209);
+}
+.bg-black {
+  background-color: #000;
+}
