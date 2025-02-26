@@ -40,7 +40,8 @@
   background-color: #000;
 }
 @media only screen and (max-width: 550px) {
-  .banner-img-container {
-    display: none;
+  .banner-img {
+    width: 300px;
+    height: 300px;
   }
 }
