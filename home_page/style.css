@@ -13,7 +13,7 @@
   border-radius: 20px;
 }
 .shadow {
-  box-shadow: 4px 4px 8px black;
+  box-shadow: 4px 4px 30px 4px 4px 30px black;
 }
 .banner-container {
   background-image: url("./images/BG.png");
